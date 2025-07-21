@@ -1,5 +1,5 @@
 # Movie Studio Insights Project
-![](./images/pexels-brunomassao-2335049.jpg)
+![camera picture](./images/pexels-brunomassao-2335049.jpg)
 
 ## Overview
 In today’s entertainment landscape, original video content has become a critical driver of success for major companies. With streaming platforms and traditional studios investing heavily in film production, the market is more competitive than ever. This company has decided to enter this space by launching a new movie studio but lacks the internal knowledge and historical data to make informed decisions about what types of films to produce.
@@ -9,7 +9,7 @@ This project provides data-driven insights to support the strategic launch of a 
 The insights generated from this project aim to guide decision-making in content selection, budget allocation, marketing strategy, and franchise development.
 
 ## Business problem
-![](./images/pexels-cottonbro-6883796.jpg)
+![studio](./images/pexels-cottonbro-6883796.jpg)
 With the entertainment industry increasingly dominated by companies producing original content, this company aims to enter the space by launching a new movie studio. However, as a newcomer, it lacks historical insight into what types of films are most likely to succeed both critically and financially. As the data analyst on this project, I am tasked with conducting exploratory data analysis (EDA) to uncover patterns, trends, and correlations in movie performance data. I will then translate those findings into actionable business insights that the head of the new movie studio can use to guide strategic decisions around:
 - Genre selection
 - Release timing
